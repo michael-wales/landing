@@ -18,7 +18,7 @@ h3 {
 }
 
 .banner {
-    background-image: url('C:/Users/mikew/Downloads/landing-page-master/landing-page-master/images/background.jpg');
+    background-image: url('images/background.jpg');
     /* https://lewagon.github.io/landing-page/images/background.jpg */
     background-size: cover;
     background-position: center;
